@@ -1,0 +1,13 @@
+pandas
+numpy
+PyYAML
+scikit-learn
+imbalanced-learn
+xgboost
+mlflow
+joblib
+fastapi
+uvicorn[standard]
+python-multipart
+pytest
+httpx

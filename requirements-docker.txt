@@ -1,0 +1,9 @@
+# Serving-only dependencies (keeps the image small).
+# Unpinned for simplicity; for exact reproducibility, replace each with the
+# version from your venv, e.g. `pip freeze | grep scikit-learn`.
+fastapi
+uvicorn[standard]
+pandas
+scikit-learn
+xgboost
+joblib
