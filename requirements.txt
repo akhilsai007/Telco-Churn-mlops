@@ -11,3 +11,8 @@ uvicorn[standard]==0.49.0
 python-multipart==0.0.32
 pytest==9.1.1
 httpx==0.28.1
+
+# notebooks / exploratory data analysis
+matplotlib==3.11.0
+seaborn==0.13.2
+ipykernel==7.3.0
